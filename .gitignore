@@ -4,4 +4,7 @@
 /hello.o
 /modules.order
 /Module.symvers
-
+/.hello.ko.cmd
+/.hello.mod.o.cmd
+/.hello.o.cmd
+/.tmp_versions/
